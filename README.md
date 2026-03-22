@@ -1,1 +1,5 @@
-# proiect-awbd
+# proiect-awbd![Library Management System - MVP Specs_page-0001](https://github.com/user-attachments/assets/59797d9e-7ecb-453f-8f47-3247ed717091)
+![Library Management System - MVP Specs_page-0002](https://github.com/user-attachments/assets/fe9d495a-6965-4f86-9ee5-319ae3e26bc1)
+![Library Management System - MVP Specs_page-0003](https://github.com/user-attachments/assets/9f7bee9d-8b75-45d7-9702-d478afc6adbf)
+![db_page-0001](https://github.com/user-attachments/assets/d5c0f7a8-1b76-4d26-a675-5f4530f37a2b)
+![db_page-0002](https://github.com/user-attachments/assets/3e08a192-a3d5-4462-b654-922018530b6f)
